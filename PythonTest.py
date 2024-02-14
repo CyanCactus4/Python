@@ -1,4 +1,5 @@
 from math import *
+print("Добро пожаловать\n")
 par = int(input("Введите положительно число:\t"))
 
 assert(par >= 0)
